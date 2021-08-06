@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://theblueberrypost.com/sitemap.xml
